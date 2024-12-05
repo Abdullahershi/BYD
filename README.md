@@ -82,5 +82,3 @@ We welcome contributions to improve the website! Feel free to fork the repositor
 If you have any questions, suggestions, or feedback, you can reach out to **Team BYD** through the **About** section of the website.  
 
 ---
-
-This README should give users a clear understanding of your project, how to use it, and what it offers! Let me know if there's anything else you'd like to add. 😊
